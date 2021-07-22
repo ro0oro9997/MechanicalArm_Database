@@ -7,6 +7,17 @@ Content:
 - databaseConnect.php
 - Robot_Database.sql
 - Robot_ERD.png
+- watson-streaming-stt
+	- transcribe.py
+	- speech.cfg
+	- setup.py
+	- setup.cfg
+	- requirements.txt
+	- README.rst
+	- LICENSE
+	- docs
+		- images
+			- input_audio.png   
 --------------------------------------
 Languages Per File:
 - Seperated Controle Pages:
@@ -16,6 +27,14 @@ Languages Per File:
 - databaseConnect.php (PHP)
 - Robot_Database.sql (SQL)
 - Robot_ERD.png (UML)
+- watson-streaming-stt
+	- transcribe.py (Python)
+	- speech.cfg (Text)
+	- setup.py (Python)
+	- setup.cfg (Text)
+	- requirements.txt (Text)
+	- README.rst (Text)
+	- LICENSE (Text)
 --------------------------------------
 Content Per File:
 - Seperated Controle Pages:
